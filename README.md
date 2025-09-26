@@ -28,6 +28,8 @@ This is a link:
 [Google's Website](https://www.google.com)
 
 This is an image:
-![GitHub Logo](https://github.githubassets.com/images/modules/logo_page/GitHub-Mark.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+This is a drawing I made:
 
 ![My drawing of Mahito from Jujustu Kaisen](images/20250320_232151.png)
