@@ -23,3 +23,11 @@ Unodrdered list:
 Ordered list:
 1. First item
 2. Second item
+
+This is a link:
+[Google's Website](https://www.google.com)
+
+This is an image:
+![GitHub Logo](https://github.githubassets.com/images/modules/logo_page/GitHub-Mark.png)
+
+![My drawing of Mahito from Jujustu Kaisen](images/20250320_232151.png)
