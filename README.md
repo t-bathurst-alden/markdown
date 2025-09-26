@@ -9,3 +9,17 @@
 _This text is also Italic._
 
 This is just regular text.
+
+**This is bold text.**
+
+***This is bold and Italic text.***
+
+Unodrdered list:
+-Item 1
+-Item 2
+    -Item 2a
+    -Item 2b
+
+Ordered list:
+1. First item
+2. Second item
